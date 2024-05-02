@@ -1,0 +1,6 @@
+if SHIELD_INCONTROL
+
+config ZMK_KEYBOARD_NAME
+    default "InControl"
+
+endif

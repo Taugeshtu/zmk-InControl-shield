@@ -1,0 +1,8 @@
+file_format: "1"
+id: incontrol
+name: InControl
+type: shield
+url: https://github.com/Taugeshtu/zmk-shield-InControl
+requires: [pro_micro]
+features:
+  - keys
